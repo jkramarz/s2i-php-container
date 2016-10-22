@@ -16,6 +16,7 @@ PHP versions currently supported are:
 * php-5.5
 * php-5.6
 * php-7.0
+* php-7.1
 
 RHEL versions currently supported are:
 * RHEL7 (for PHP 5.5 and 5.6 only)
